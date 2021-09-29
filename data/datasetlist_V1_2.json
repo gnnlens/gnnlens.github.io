@@ -1,0 +1,1 @@
+{"datasets": [{"id": 4, "name": "Cora"}, {"id": 5, "name": "Citeseer"}, {"id": 6, "name": "PubMed"}, {"id": 7, "name": "Cora_ML"}, {"id": 9, "name": "Photo"}, {"id": 13, "name": "Cora_ML(GAT)"}], "success": true}
